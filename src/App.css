@@ -8,14 +8,17 @@
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
+  background-color: #011936;
+  height: 650px;
   padding: 20px;
   color: white;
 }
 
 .App-title {
   font-size: 1.5em;
+  color: #FFFAFF;
+  margin: 20% auto 1%;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .App-intro {

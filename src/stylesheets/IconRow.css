@@ -1,0 +1,15 @@
+.heady-Icon {
+  color: #F5A65B;
+} 
+
+/*.padded-Icon {
+  padding-left: 45%;
+}*/
+
+.iconDiv {
+  max-width: 250px;
+  margin: 2% auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
