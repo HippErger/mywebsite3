@@ -10,10 +10,10 @@ function IconRow() {
       <a href='https://www.linkedin.com/in/clayton-berger/'>
         <i class="fa fa-linkedin-square fa-lg heady-Icon" aria-hidden="true"></i>
       </a>
-      <a>
+      <a href='https://twitter.com/Berger_Clayton'>
         <i class="fa fa-twitter-square fa-lg heady-Icon" aria-hidden="true"></i>
       </a>
-      <a href='#'>
+      <a href='https://medium.com/@berger.clayton'>
         <i class="fa fa-medium fa-lg heady-Icon" aria-hidden="true"></i>
       </a>  
     </div>
@@ -22,7 +22,3 @@ function IconRow() {
 
 export default IconRow;
 
-/*     
-    
-    
-    */
