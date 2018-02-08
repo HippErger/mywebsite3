@@ -2,11 +2,12 @@ import React, { Component } from 'react';
 import './App.css';
 import IconRow from './components/IconRow';
 import Particles from 'react-particles-js';
-// import Particle from 'react-particle';
-import PartParams from './particles.json';
+import PortfolioButton from './components/portfolioButton.js';// import Particle from 'react-particle';
+
+// import PartParams from './particles.json';
 
 class App extends Component {
-  render() {    
+  render() {
     return (
       <div className="App">
         <header className="App-header">
@@ -14,6 +15,7 @@ class App extends Component {
           <hr />
           <IconRow />
         </header>
+        <PortfolioButton />
       </div>
     );
   }
