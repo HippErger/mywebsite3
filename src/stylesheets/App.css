@@ -21,6 +21,7 @@
   color: #FFFAFF;
   margin: 20% auto 1%;
   font-family: 'Montserrat', sans-serif;
+  max-width: 600px
 }
 
 .App-intro {
@@ -37,4 +38,21 @@ hr {
   height: .2px;
   background-color: white;
 
+}
+
+.title-Name {
+  text-align: center;
+  text-decoration: none !important;
+  opacity: 1;
+  transition: opacity 300ms linear;
+}
+
+.title-Name:hover {
+    transition: all 280ms linear;
+    opacity: .75;
+  }
+
+.title-Name:active {
+  transition: all 150ms linear;
+  opacity: .75;
 }

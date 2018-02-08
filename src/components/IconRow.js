@@ -5,7 +5,7 @@ function IconRow() {
   return (
     <div class='iconDiv'>
       <a href='https://github.com/HippErger'>
-        <i class="fa fa-github fa-2x heady-Icon padded-Icon" aria-hidden="true"></i>
+        <i class="fa fa-github fa-2x heady-Icon" aria-hidden="true"></i>
       </a>
       <a href='https://www.linkedin.com/in/clayton-berger/'>
         <i class="fa fa-linkedin-square fa-2x heady-Icon" aria-hidden="true"></i>
